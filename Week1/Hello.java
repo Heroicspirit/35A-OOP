@@ -27,5 +27,15 @@ String. Don't forget: use \"
 instead of " !
 
 '' is not the same as " */
+        System.out.print("*\n**\n***\n****\n***** ");
+        /*4. WAP that prints the following pattern:
+
+*
+
+**
+
+***
+
+**** */
     }
 }
