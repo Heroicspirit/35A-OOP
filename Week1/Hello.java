@@ -10,5 +10,7 @@ This is my first program
 I am on module ST4003CEM
 
 System.out.print (not println) and produces the same output. */
+
+        System.out.println("A \"quotaed\"String is\n'much' better if you can learn\nthe rules of \"escape sequences.\"\t\"is not the same\"");
     }
 }
